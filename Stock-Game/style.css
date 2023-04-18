@@ -1,0 +1,169 @@
+
+#btnSrc{
+  color:#5ec57d;
+  border: 1px solid #5ec57d;
+}
+#btnSrc:hover{
+  background-color: #5ec57d;
+  color:whitesmoke;
+}
+#btnSrc:active{
+  color:#e8cf69;
+  
+}
+.logoImg{
+  height: 100px;
+  width: 150px;
+  margin-top: 12px;
+}
+/* for the bg imag*/
+.imgMain{
+  height: 400px;
+  float:left;
+  margin-top: 10%;
+
+} 
+/* for the bg image */
+.mainText{
+  font-size: 29px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: capitalize;
+  padding-top:10%;
+  font-weight: 100;
+}
+.btnSignin{
+border: 1px solid #5ec57d ;
+  border-radius: 15px;
+  font-size: 18px;
+padding: 9px 18px;
+  color:white;
+  padding-left:20px;
+  background-color: #5ec57d;
+   margin-top: 2%;
+  transition:all 0.3s ease-in-out;
+}
+.btnSignin:hover{
+  background-color:#4da367 ;
+}
+.col-8{
+  padding-left: 100p;
+}
+.mainText{
+  margin-top: 20%;
+}
+ /* SignUp content Css */
+ @import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:wght@100&display=swap');
+
+.btnLogin{
+  border: 1px solid #5ec57d ;
+  border-radius: 15px;
+  font-size: 18px;
+  padding: 9px 18px;
+  margin-left:3%;
+  color:white;
+  padding-left:20px;
+  background-color: #5ec57d;
+  transition:all 0.3s ease-in-out;
+}
+.btnLogin:hover{
+  background-color:#4da367 ;
+}
+.title-text{
+  padding-top: 8%;
+  font-size: 33px;
+  padding-bottom: 4%;
+}
+.card{
+  border:1px solid #f8f9fa;
+  top:30%;
+  box-shadow: 0px 0px 15px 1px rgba(0,0,0,0.2);
+}
+.subText{
+  font-size: 20px;
+  margin-top: 20px;
+  color: #666;
+}
+.form-container {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.form-group{
+  padding-right:4%;
+  padding-left:4%;
+}
+.link-login, .link-signin{
+  text-decoration: none;
+  color:white;
+  
+}
+.link-login:hover{
+  text-decoration: none;
+  color:white;
+ 
+}
+.link-signin:hover{
+  text-decoration: none;
+  color:white;
+  
+}
+
+/* SignUp content Css */
+/* this part is for the About Us */
+.about-part{
+  padding-top: 10%;
+}
+.about-img{
+  height:445px;
+  width:645px;
+  display :block;
+  margin : 0;
+  padding-top: 20%;
+}
+.returnIcon{
+  float:left;
+  padding-left: 5%;
+  font-size: 20px;
+}
+.about_text{
+  padding-top: 20%;
+  font-size: 24px;
+}
+  .about_h1{
+    padding-bottom: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+  text-transform: capitalize;
+  }
+/* thia part is for the about us */
+/* for the profile part */
+.profile-text{
+  font-size: 19px;
+  color:black;
+  font-family: Arial, Helvetica, sans-serif;
+ padding-bottom:26% ;
+  
+}
+.spanPro{
+  padding-left:85%;
+  padding-top:10%;
+}
+.profile-text:hover{
+  text-decoration: none;
+  }
+
+.form-pro{
+ 
+  margin: 5%;
+}
+.pro-icon{
+ margin-right: 4%;
+}
+.paragraph-stocks{
+    font-size: 25px;
+  margin-top: 20px;
+  color: #666;
+}
+  .paragraph2{
+     color: #666;
+    font-size: 21px;
+    margin-right: 5%;
+  }
